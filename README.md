@@ -10,23 +10,19 @@ Data Preprocessing: Techniques for cleaning, transforming, and preparing data fo
 How to Use This Repository
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/yourusername/machine-learning-projects.git
 Install dependencies: Use the requirements.txt to install the necessary libraries:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Run the projects: Each project is in its own folder. Navigate to a project folder and follow the instructions to run it:
 
-bash
-Copy code
+
 cd projects/project_name
 Explore Notebooks: If a project has Jupyter notebooks, you can open them by running:
 
-bash
-Copy code
+
 jupyter notebook
 Tools and Libraries Used
 Python
